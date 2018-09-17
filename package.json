@@ -1,0 +1,22 @@
+{
+  "name": "background-gradient",
+  "version": "1.0.0",
+  "description": "background-gradient",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richardchalmers/background-gradient.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richardchalmers/background-gradient/issues"
+  },
+  "homepage": "https://github.com/richardchalmers/background-gradient#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
